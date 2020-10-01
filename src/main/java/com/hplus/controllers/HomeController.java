@@ -9,4 +9,9 @@ public class HomeController {
     public String goHome(){
         return "index";
     }
+
+    @GetMapping("/goToSearch")
+    public String gotToSearch(){
+        return "search";
+    }
 }

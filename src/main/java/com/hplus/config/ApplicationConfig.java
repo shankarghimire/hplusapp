@@ -1,4 +1,4 @@
-package com.hplus;
+package com.hplus.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
